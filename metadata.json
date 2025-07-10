@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Learning Platform",
+  "description": "An interactive learning platform with dynamic quizzes, user authentication, and course activation, built with React and powered by Gemini for enhanced explanations.",
+  "requestFramePermissions": []
+}
